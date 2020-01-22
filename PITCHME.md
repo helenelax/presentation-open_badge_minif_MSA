@@ -1,4 +1,4 @@
-### Les  Open badges
+### Les  Open Badges
 
 
 ---
@@ -56,10 +56,10 @@ Note:le backpack vérifie l'authenticité du badge
 
 ---
 ### À vous !
-1. demandez votre OpenBadge  
+1. demandez votre badge  
  https://frama.link/OpenBadgeMSA   
  <small>(lien valable jusqu'au 3/02/20)</small>  
-2. ajoutez le à votre backpack
+2. ajoutez-le à votre backpack
 
  
 ---
