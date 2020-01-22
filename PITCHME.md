@@ -56,13 +56,11 @@ Note:le backpack vérifie l'authenticité du badge
 
 ---
 ### À vous !
- - demandez votre OpenBadge  
+1. demandez votre OpenBadge  
  https://frama.link/OpenBadgeMSA   
- <small>(lien valable jusqu'au 3/02/20)</small>
- 
-@snap[midpoint span-50 text-07]
- - ajoutez le à votre backpack
- @snapend
+ <small>(lien valable jusqu'au 3/02/20)</small>  
+2. ajoutez le à votre backpack
+
  
 ---
 ### Crédits
